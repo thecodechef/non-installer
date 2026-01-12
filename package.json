@@ -18,8 +18,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "@alpinejs/focus": "^3.15.3",
+    "@alpinejs/persist": "^3.15.3",
     "@biomejs/biome": "^2.3.10",
     "@taplo/cli": "^0.7.0",
+    "alpinejs": "^3.15.3",
     "textlint": "^15.5.0",
     "textlint-rule-no-todo": "^2.0.1"
   }
